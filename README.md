@@ -1,2 +1,2 @@
-# Pipeline
-Project shows workflow 
+# Pipeline-Project
+Illustrates the workflow
